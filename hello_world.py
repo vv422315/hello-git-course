@@ -1,8 +1,5 @@
-from types import CodeType
+#Aloitetaan tästä itse harjoitteiden tekeminen
 
+#Tuolestetaan Hello World
 
---Line 1 of text 
-testline
-test2
-
-test3
+print("Hello World!")
